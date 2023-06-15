@@ -1,2 +1,2 @@
 # DragoniasWildTilesMods
-Dragonia's Wild Tiles MOds
+Dragonia's Wild Tiles Mods
